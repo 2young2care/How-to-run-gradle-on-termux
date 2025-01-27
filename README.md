@@ -18,8 +18,8 @@ pkg install openjdk-17 gradle
 
 You need to download the source code from GitHub. Use the git command to clone the source code repository.
 
--pkg install git
--git clone https://github.com/CrystalCL/zeon-crack.git
+/pkg install git
+/git clone https://github.com/CrystalCL/zeon-crack.git
 cd zeon-crack
 ----------------------------------
 
