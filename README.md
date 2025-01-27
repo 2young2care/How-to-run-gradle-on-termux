@@ -9,9 +9,9 @@ Here I will take an example of https://github.com/CrystalCL/zeon-crack.git
 
 Open Termux and install necessary packages like openjdk and gradle:
 
--pkg update
--pkg upgrade
--pkg install openjdk-17 gradle
+pkg update/
+pkg upgrade/
+pkg install openjdk-17 gradle
 --------------------------------
 
 2. Download source code from GitHub:
